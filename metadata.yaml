@@ -1,0 +1,28 @@
+_repo: The-Continental-Monthly-Vol.-5-No.-3-March-1864--13-Devoted-to-Literature-and-National-Policy_18848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Continental Monthly
+gutenberg_issued: '2006-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'United States -- Politics and government -- 19th century -- Periodicals'
+title: "The Continental Monthly, Vol. 5, No. 3,  March, 1864\r\nDevoted to Literature\
+  \ and National Policy"
+url: http://www.gutenberg.org/ebooks/18848
